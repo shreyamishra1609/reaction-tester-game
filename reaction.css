@@ -1,0 +1,25 @@
+
+#shape{
+background-color: pink;
+width:150px;
+height:150px;
+margin:10px;}
+
+#time{
+    float:right;
+    position:fixed;
+
+}
+
+#head{
+    background-color: black;
+    color:white;
+    text-align: center;
+    padding:10px;
+    margin-top:-10px;
+    width:100%;
+}
+
+#time{
+    font-size: 30px;
+}
